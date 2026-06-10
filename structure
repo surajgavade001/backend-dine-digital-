@@ -1,0 +1,17 @@
+├── src/
+│   ├── config/
+│   │   └── db.ts
+│   ├── controllers/
+│   │   └── auth.controller.ts
+│   ├── middlewares/
+│   │   ├── auth.middleware.ts
+│   │   └── role.middleware.ts
+│   ├── models/
+│   │   └── user.model.ts
+│   ├── routes/
+│   │   └── auth.routes.ts
+│   └── app.ts
+├── .env
+├── .gitignore
+├── package.json
+└── tsconfig.json
